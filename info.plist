@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>157E496F-ECF0-4943-8FF3-DB2C9C517DA2</string>
+			<string>944CD17B-2489-4C7B-B427-17466F86B1BD</string>
+			<string>0D977EFF-A8CC-4D35-AE24-E93FCF5E39AB</string>
+			<string>91730CC3-776F-42EA-9937-CCCFB893E962</string>
+			<string>C005F490-2872-421E-89CA-8D3624016308</string>
+			<string>304F8F83-AF3F-4B27-977D-CDD80E39FDBD</string>
+			<string>A77DE83B-2ED5-4E50-B81D-2795AA91060B</string>
+			<string>A588336B-861C-4194-A1E4-D72893B534D3</string>
+		</array>
+		<key>submenus</key>
+		<dict/>
+	</dict>
+	<key>name</key>
+	<string>Compass 960.gs</string>
+	<key>ordering</key>
+	<array>
+		<string>157E496F-ECF0-4943-8FF3-DB2C9C517DA2</string>
+		<string>944CD17B-2489-4C7B-B427-17466F86B1BD</string>
+		<string>C005F490-2872-421E-89CA-8D3624016308</string>
+		<string>304F8F83-AF3F-4B27-977D-CDD80E39FDBD</string>
+		<string>0D977EFF-A8CC-4D35-AE24-E93FCF5E39AB</string>
+		<string>91730CC3-776F-42EA-9937-CCCFB893E962</string>
+		<string>A77DE83B-2ED5-4E50-B81D-2795AA91060B</string>
+		<string>A588336B-861C-4194-A1E4-D72893B534D3</string>
+		<string>6057612D-B5E9-4C12-9635-1EA4895A9274</string>
+		<string>DFA952C8-25D4-4509-9C08-EBF16EC35EB8</string>
+	</array>
+	<key>uuid</key>
+	<string>598D785F-2A60-4DED-8A2B-07CBBF0BE2D5</string>
+</dict>
+</plist>
